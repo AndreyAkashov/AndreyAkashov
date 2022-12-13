@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Andrey
+### Hi, my name is Andrey
 #### I am QA Engineer
 
 Skills: Postman / MySQL / Fiddler / Charles / DevTools
